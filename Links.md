@@ -1,17 +1,17 @@
 #Black Hills Information Security
   https://www.blackhillsinfosec.com/
   
-## BHIS Weekly News
+##BHIS Weekly News
   https://www.youtube.com/c/BlackHillsInformationSecurity/videos
   
-## AntiSyphonTraining
+##AntiSyphonTraining
   https://www.antisyphontraining.com/
   
-## Discord
+##Discord
   https://discord.gg/BHIS
   
 
-# SANS 
+#SANS 
   https://sans.org
 
 #
