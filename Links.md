@@ -18,10 +18,3 @@ Discord Server -- https://discord.gg/BHIS
   https://github.com/arainho/awesome-api-security                          
   https://github.com/decalage2/awesome-security-hardening                        
   
-# **CyberSecurityMindMap** ![MindMap([mindmap.png](https://github.com/jeff-is-working/CyberSecurityCareerGuide/blob/main/mindmap.png)) https://app.box.com/s/sj5xaz8a1461e7u7si3ip1361r070fed/file/803491226040
-# **GRC**
-# **ApplicationSecurity**
-# **SecurityEngineering**
-# **SecurityOperations**
-
-
