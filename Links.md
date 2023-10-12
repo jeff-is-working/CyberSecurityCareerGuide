@@ -4,11 +4,15 @@
   https://www.youtube.com/c/BlackHillsInformationSecurity/videos
 ## AntiSyphonTraining
   https://www.antisyphontraining.com/ 
-##Discord
+## BHIS Discord
   https://discord.gg/BHIS
   
 
 # **SANS** 
   https://sans.org
 
-#
+# **AWESOME INFOSEC(s)**
+  https://github.com/onlurking/awesome-infosec
+  https://github.com/pe3zx/my-infosec-awesome
+  
+# 
