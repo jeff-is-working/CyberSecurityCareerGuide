@@ -19,4 +19,8 @@ Discord Server -- https://discord.gg/BHIS
   https://github.com/decalage2/awesome-security-hardening                        
   
   
-# 
+# **GRC**
+# **ApplicationSecurity**
+# **SecurityEngineering**
+# **SecurityOperations
+
