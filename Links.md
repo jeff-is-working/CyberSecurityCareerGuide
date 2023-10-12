@@ -1,8 +1,8 @@
 # **Black Hills Information Security**  
-https://www.blackhillsinfosec.com/
-https://www.youtube.com/c/BlackHillsInformationSecurity/videos
-https://www.antisyphontraining.com/
-https://discord.gg/BHIS
+https://www.blackhillsinfosec.com/    
+https://www.youtube.com/c/BlackHillsInformationSecurity/videos    
+https://www.antisyphontraining.com/    
+https://discord.gg/BHIS    
   
 # **SANS**  
 https://sans.org
